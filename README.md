@@ -1,6 +1,6 @@
 # 🏋️‍♂️ HomeGymFix - Your Personal Fitness Guide
 
-**HomeGymFix** is a full-stack fitness web application designed to help users stay healthy with personalized workout routines and diet plans. Built using the MERN stack, it integrates real-time fitness data using RapidAPI and offers a sleek, responsive UI powered by Material UI.
+**HomeGymFix** is a full-stack fitness web application designed to help users stay healthy with personalized workout routines and diet plans. Built using the MERN stack, it integrates real-time fitness data using RapidAPI (a third party open api) and offers a sleek, responsive UI powered by Material UI.
 
 ---
 
@@ -30,3 +30,5 @@
    ```bash
    git clone https://github.com/Ayush412-art/HomeGymFix.git
    cd HomeGymFix
+   npm install //for installing all the dependencies
+   npm run dev
